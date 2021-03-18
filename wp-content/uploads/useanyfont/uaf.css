@@ -1,0 +1,18 @@
+				@font-face {
+				    font-family: 'jost';
+				    src: url('/wp-content/uploads/useanyfont/3820Jost.woff2') format('woff2'), url('/wp-content/uploads/useanyfont/3820Jost.woff') format('woff');
+				    font-display: auto;
+				}
+
+				.jost {
+				    font-family: 'jost' !important;
+				}
+
+				h1,
+				h2,
+				h3,
+				h4,
+				h5,
+				h6 {
+				    font-family: 'jost' !important;
+				}
